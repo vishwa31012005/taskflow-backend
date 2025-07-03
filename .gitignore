@@ -1,0 +1,27 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Django database
+db.sqlite3
+
+# Ignore logs
+*.log
+
+# Ignore virtual environment (Windows)
+env/
+
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore static/media files (optional if generated)
+staticfiles/
+media/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
